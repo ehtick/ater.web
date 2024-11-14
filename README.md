@@ -1,3 +1,6 @@
+> **注意** 本仓库内容已合并到 [Ater.dry](https://github.com/AterDev/ater.dry.cli).
+
+
 # 说明
 
 本仓库包含了Ater.Web 相关内容的源代码。主要包括：
